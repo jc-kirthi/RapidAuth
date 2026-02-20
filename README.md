@@ -2,7 +2,6 @@
   RapidAuth: End-to-End Document Integrity System for Academic Credentials
 </h1>
 
-
 # 📌 Project Description
 
 RapidAuth is a blockchain-based credential verification platform that enables educational institutions to issue tamper-proof digital documents as verifiable claims on the Algorand blockchain.
@@ -41,7 +40,7 @@ Educational institutions face a credential crisis:
  
 https://rapid-auth-two.vercel.app/
 
-Deployed  backend link: 
+Deployed backend link: 
 
 ---
 
@@ -60,7 +59,7 @@ https://www.linkedin.com/posts/your-organization/rapidauth-demo
 
 # 🏗 Architecture Overview
 
-![alt text](image.png)
+![alt text](contracts/images/image.png)
 
 RapidAuth follows a hybrid Web3 architecture combining **Algorand blockchain**, **Firebase database**, and **IPFS storage** to achieve security, scalability, and usability.
 
@@ -303,28 +302,28 @@ Ensures long-term document trust even in a post-quantum world.
 # 📖 Usage Guide
 
 1. Start as the university authority using pera wallet
-![alt text](image-1.png)
+![alt text](contracts/images/image-1.png)
 
 2. As soon you click on connect wallet as an university author
-![alt text](image-2.png)
+![alt text](contracts/images/image-2.png)
 
 3. Add verified details as author
-![alt text](image-3.png)
+![alt text](contracts/images/image-3.png)
 
 4. Confirming the transaction in algo kit
-![alt text](image-4.png)
+![alt text](contracts/images/image-4.png)
 
 5. Using gmail otp authentication without any wallet a student can use our platform
-![alt text](image-5.png)
+![alt text](contracts/images/image-5.png)
 
 6. As a student see your details and decide if you want to enable or disable the information and share your credentials using a rate limited qr code or a magic link
-![alt text](image-6.png)
+![alt text](contracts/images/image-6.png)
 
 7. Recruiter verified using blockchain 
-![alt text](image-7.png)
+![alt text](contracts/images/image-7.png)
 
 8. Live trnsaction
-![alt text](image-8.png)
+![alt text](contracts/images/image-8.png)
 
 ---
 
