@@ -1,8 +1,8 @@
-# PlacementVerify Smart Contract
+# Smart Contract
 
 ## 📌 Overview
 
-PlacementVerify is an ARC-4 smart contract built on the Algorand blockchain.
+It is an ARC-4 smart contract built on the Algorand blockchain.
 
 It enables a college (admin) to:
 
