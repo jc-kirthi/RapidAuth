@@ -46,7 +46,7 @@ Deployed backend link:
 
 # 🎥 LinkedIn Demo Video URL
 
-[https://www.linkedin.com/posts/your-organization/rapidauth-demo](https://www.linkedin.com/posts/kirthi-jc-5390b8310_algorand-blockchain-hackathon-activity-7430438559108591616-o1fX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8Jc_0BdkNohj9rAORVrI-zgYlOtl6x5DE)
+https://www.linkedin.com/posts/kirthi-jc-5390b8310_algorand-blockchain-hackathon-activity-7430438559108591616-o1fX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8Jc_0BdkNohj9rAORVrI-zgYlOtl6x5DE
 
 ---
 
@@ -59,7 +59,7 @@ Deployed backend link:
 
 # 🏗 Architecture Overview
 
-![alt text](contracts/images/image.png)
+![alt text](docs/images/image.png)
 
 RapidAuth follows a hybrid Web3 architecture combining **Algorand blockchain**, **Firebase database**, and **IPFS storage** to achieve security, scalability, and usability.
 
@@ -302,28 +302,28 @@ Ensures long-term document trust even in a post-quantum world.
 # 📖 Usage Guide
 
 1. Start as the university authority using pera wallet
-![alt text](contracts/images/image-1.png)
+![alt text](docs/images/image-1.png)
 
 2. As soon you click on connect wallet as an university author
-![alt text](contracts/images/image-2.png)
+![alt text](docs/images/image-2.png)
 
 3. Add verified details as author
-![alt text](contracts/images/image-3.png)
+![alt text](docs/images/image-3.png)
 
 4. Confirming the transaction in algo kit
-![alt text](contracts/images/image-4.png)
+![alt text](docs/images/image-4.png)
 
 5. Using gmail otp authentication without any wallet a student can use our platform
-![alt text](contracts/images/image-5.png)
+![alt text](docs/images/image-5.png)
 
 6. As a student see your details and decide if you want to enable or disable the information and share your credentials using a rate limited qr code or a magic link
-![alt text](contracts/images/image-6.png)
+![alt text](docs/images/image-6.png)
 
 7. Recruiter verified using blockchain 
-![alt text](contracts/images/image-7.png)
+![alt text](docs/images/image-7.png)
 
 8. Live trnsaction
-![alt text](contracts/images/image-8.png)
+![alt text](docs/images/image-8.png)
 
 ---
 
